@@ -35,7 +35,7 @@ app = Flask(__name__)
 CORS(app)
 
 # API Key
-openai.api_key = "sk-vFN-A5Ksx-REH-qun8aEt-cljY6H0sWHVEOuHzCsv3T3BlbkFJ0Dc_QWbAIRT3n0klEuDcnJmoa0_FsnfIobhGjdw14A"
+openai.api_key = ""
 
 
 def interact_with_chatbot():
